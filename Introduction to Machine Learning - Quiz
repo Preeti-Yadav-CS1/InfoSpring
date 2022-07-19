@@ -1,0 +1,45 @@
+Q1 of 5
+State True/False: Machine learning is the task of learning patterns from input dataset and applying the learning to automatically make predictions for new data.
+
+True
+False
+
+Answer: True
+
+Q2 of 5
+Which of the following machine learning techniques learns the function to map an input variable to output variable in the given dataset?
+
+Supervised Learning
+Unsupervised Learning
+
+Answer: Supervised Learning
+Q3 of 5
+Which of the following usecases can be solved using the Supervised machine learning technique?
+
+Grouping inventory by sales activity.
+Grouping news articles into broader categories.
+Predicting whether a patient is diabetic.
+For a media service provider, grouping customers based on the types of movies they watch.
+
+Answer: Predicting whether a patient is diabetic.
+ 
+
+Q4 of 5
+Which of the following usecases can be solved using Unsupervised machine learning technique?
+
+Predicting if a person will repay a loan within the grace period.
+Grouping customers who have exhibited similar buying patterns.
+A home security camera system that triggers the opening of the gate when you come near it.
+Identifying the speaker(s) from an audio clip.
+
+Answer: Grouping customers who have exhibited similar buying patterns.
+
+Q5 of 5
+Which phase of the machine learning process deals with handling missing values and outliers in the historical data set?
+
+Feature Engineering
+Model Building
+Model Validation
+Model Deployment
+
+Answer: Feature Engineering
